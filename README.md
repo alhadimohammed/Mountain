@@ -1,4 +1,4 @@
-# [Mountain](https://alhadimohammed.github.io/Mountain/)
+# Mountain
 
 
 ## 💫 Usage 
